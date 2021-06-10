@@ -1,0 +1,40 @@
+
+.logout{
+    margin-left: auto;
+}
+
+.logo{
+    margin: auto; 
+}
+.nav-ul{
+    margin: auto; 
+}
+
+.nav-item{
+    padding: 7px; 
+    font-size: 15px; 
+}
+
+.footer{
+    padding: 10px ; 
+    font-size: 12px;
+}
+
+.FieldInfo{   
+    font-family: Bitter, Georgia, 'Times New Roman', Times, serif;
+    font-size: 1.5em; 
+}
+
+.media{
+    background-color: #F6F7F9;
+}
+
+.heading{
+    font-family: Bitter, Georgia, 'Times New Roman', Times, serif; 
+    font-weight: bold; 
+    color: #005E90; 
+}
+
+.heading:hover{
+    color: #0090DB;
+}
