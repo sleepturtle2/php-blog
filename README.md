@@ -8,7 +8,6 @@ This is a full-stack web application that has a page for listing all blogs and a
 **[Try out the deployed application here](https://blogprototype.000webhostapp.com/Blog.php)**!
  
 
-Clicking [this link](#1.1-My-First-Header)
 ## Table of Contents 
 1. [Details and Technology Used](#1.-Details-and-Technology-Used)
 2. [Installing LAMP server](#2.-Installing-LAMP-Server)
