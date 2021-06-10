@@ -26,6 +26,7 @@ Running the project requires you to have an Apache Server. If you do not have on
 `sudo apt install apache2`
 `sudo apt install mysql-server`
 `sudo apt install php libapache2-mod-php php-mysql`
+
 Starting the server:  
 `sudo /opt/lampp/lampp start`
 
