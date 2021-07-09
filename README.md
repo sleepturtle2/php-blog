@@ -60,5 +60,5 @@ Repo code is live at `localhost/php-blog`. Each `.php` or `.html` page can be vi
 - CMS to approve, disapprove and delete comments 
 
 ## 5. First Look at the Application
-![alt text](https://github.com/sleepturtle2/php-blog/blob/master/1.png?raw=true)
-![alt text](https://github.com/sleepturtle2/php-blog/blob/master/2.png?raw=true)
+![alt text](https://github.com/sleepturtle2/php-blog/blob/main/1.png?raw=true)
+![alt text](https://github.com/sleepturtle2/php-blog/blob/main/2.png?raw=true)
