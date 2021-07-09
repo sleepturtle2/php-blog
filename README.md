@@ -13,6 +13,7 @@ This is a full-stack web application that has a page for listing all blogs and a
 2. [Installing LAMP server](#2.-Installing-LAMP-Server)
 3. [Clone Project and View in Browser](#3.-Clone-Project-and-View-in-Browser)
 4. [Features](#4.-Features)
+5. [First Look](#5. First Look)
 
 ## 1. Details and Technology Used 
 * LAMP stack (Linux operating system, Apache HTTP Server, MySQL database, PHP programming language)
@@ -57,3 +58,7 @@ Repo code is live at `localhost/php-blog`. Each `.php` or `.html` page can be vi
 - CMS to add, delete admins 
 - CMS to add, edit, delete posts 
 - CMS to approve, disapprove and delete comments 
+
+## 5. First Look at the Application
+![alt text](https://github.com/sleepturtle2/real-time-weather-app/blob/master/1.png?raw=true)
+![alt text](https://github.com/sleepturtle2/real-time-weather-app/blob/master/2.png?raw=true)
