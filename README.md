@@ -6,6 +6,7 @@
 
 This is a full-stack web application that has a page for listing all blogs and authenticated admin CMS features to edit, add and delete blogs, comments and admins. 
 Try out the deployed application below: 
+
 Public View: 
 **[Blog Public View](https://blogprototype.000webhostapp.com/Blog.php)**!
 Admin View: 
